@@ -14,7 +14,7 @@
 
 **7. Generating ShellCode**
 
-**8. Got Shell****
+**8. Got Shell**
 
 ![](./image-20201022153904756.png)
 ![](./image-20201022151336108.png)
