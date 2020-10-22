@@ -4,7 +4,7 @@
 
 **2. Fuzzing**
 
-**3. Finding The ffset**
+**3. Finding The Offset**
 
 **4. Overwriting The EIP**
 
