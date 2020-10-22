@@ -1,3 +1,17 @@
+## Exploit steps
+
+**1. Spiking**
+**2. Fuzzing**
+**3. Finding The ffset**
+**4. Overwriting The EIP**
+**5. Finding Bad characters**
+**6. Finding the Right Module**
+**7. Generating ShellCode**
+**8. Got Shell****
+
+![](./image-20201022153904756.png)
+![](./image-20201022151336108.png)
+
 # Vulnserver
 
 Check my blog at http://thegreycorner.com/ for more information and updates to this software.
