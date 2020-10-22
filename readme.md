@@ -19,6 +19,10 @@
 ![](./image-20201022153904756.png)
 ![](./image-20201022151336108.png)
 
+http://thegreycorner.com/vulnserver.html
+
+http://thegreycorner.com/tags.html#vulnserver
+
 
 ## Vulnerable help
 
